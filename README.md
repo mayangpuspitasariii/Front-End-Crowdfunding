@@ -1,12 +1,56 @@
-# React + Vite
+# 🌟 Frontend Crowdfunding - Lazismu Asahan
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Selamat datang di **Frontend Crowdfunding Lazismu Asahan** — sebuah platform donasi modern yang memudahkan masyarakat untuk berkontribusi dalam berbagai program sosial dan kemanusiaan.  
+Dibangun dengan ❤️ menggunakan **React.js**, **Tailwind CSS**, dan **JavaScript**, aplikasi ini berfokus pada tampilan yang *clean*, *responsive*, dan *user-friendly*.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Fitur Utama
 
-## Expanding the ESLint configuration
+✨ **Desain Responsif**  
+> Tampilan optimal di berbagai perangkat — dari desktop hingga smartphone.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🎯 **Manajemen Donasi**  
+> Pengguna dapat melihat daftar donatur, total donasi, dan detail setiap kampanye.
+
+🧩 **Komponen Reusable**  
+> Setiap bagian aplikasi dibuat modular dan mudah dikembangkan lebih lanjut.
+
+⚡ **Riwayat Donasi & Profil Pengguna**  
+> Terdapat riwayat donasi untuk melihat status donasi dan profil pengguna yang dapat diedit.
+
+🎨 **Fitur Login & Register**  
+> Pengguna dapat melakukan login dan register untuk melakukan donasi.
+
+---
+
+## 🛠️ Teknologi yang Digunakan
+
+| Teknologi | Deskripsi |
+|------------|------------|
+| ⚛️ **React.js** | Library utama untuk membangun antarmuka pengguna. |
+| 💅 **Tailwind CSS** | Framework CSS utility-first untuk styling cepat dan responsif. |
+| 🧠 **JavaScript (ES6+)** | Bahasa utama untuk logika aplikasi. |
+| 🔧 **Vite / Create React App** | Tools untuk membangun dan menjalankan aplikasi React. |
+| 🌐 **Axios / Fetch API** | Untuk komunikasi dengan server (REST API). |
+
+---
+
+## 📦 Instalasi & Menjalankan Proyek
+
+Pastikan kamu sudah menginstal **Node.js** dan **npm** (atau **yarn**) di komputer kamu.
+
+### 1️⃣ Clone repository ini
+```bash
+git clone https://github.com/mayangpuspitasariii/Front-End-Crowdfunding.git
+cd Front-End-Crowdfunding
+npm install
+npm run dev
+
+```
+<div align="center">
+✨ Crafted with ❤️ by Mayang Puspita Sari
+
+© 2025 | Frontend Crowdfunding - Lazismu Asahan
+
+</div> 
